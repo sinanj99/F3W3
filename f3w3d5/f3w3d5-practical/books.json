@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "How to Learn ES6",
+      "info": "Complete all exercises :-)"
+    },
+    {
+      "id": "3",
+      "title": "How to Learn React",
+      "info": "Complete all your CA's"
+    },
+    {
+      "id": "4",
+      "title": "Learn React",
+      "info": "Don't drink beers, until Friday (after four)"
+    },
+    {
+      "title": "a",
+      "info": "a",
+      "id": "_Zw_JIm"
+    }
+  ]
+}
